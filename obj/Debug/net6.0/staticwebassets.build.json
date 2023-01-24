@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iITlWHTLZR27dTj8c7WXRXgLIYWLspBCPPCnVzMcGnQ=",
+  "Source": "csvReader",
+  "BasePath": "_content/csvReader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
